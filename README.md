@@ -1,3 +1,5 @@
+
+
 # Les Perturbateurs Endocriniens
 
 Projet STS
@@ -6,10 +8,10 @@ Description: Nous sommes six étudiantes du double cursus Sciences et Sciences S
 
 <p>Cliquer sur les produits pour les voir de plus près:</p>
 
-<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:145px;height:126px;">
+<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 <map name="pertumap">
-  <area shape="rect" coords="0,0,82,126" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+  <area shape="rect" coords="75,200,150,400" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
 
 You can use the [editor on GitHub](https://github.com/evespa97/Perturbateurs-Endocriniens/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
