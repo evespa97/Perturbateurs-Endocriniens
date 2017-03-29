@@ -34,7 +34,7 @@ header {
 </style>
 </head>
 
-<body style="background-color:powderblue;">
+<body style="background-color:red;">
 
 <div class="flex-container">
 <header>
