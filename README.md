@@ -21,18 +21,8 @@
 
 header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
-.nav {background:white;color:black}
-
-.nav ul {
-    list-style-type:none;
-    padding:0;
-}
-.nav ul a {
-    text-decoration: none;
-}
 
 @media all and (min-width: 768px) {
-    .nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
@@ -43,16 +33,12 @@ footer {background: #aaa;color:white;}
 
 <div class="flex-container">
 <header>
-  <h1>Les Perturbateurs endocriniens</h1>
-</header>
-
-<nav class="nav">
-<ul>
+  <ul>
   <li><a href="#">Un problème de santé publique</a></li>
   <li><a href="#">Des intérêts confrontés</a></li>
   <li><a href="#">Une législation difficile</a></li>
 </ul>
-</nav>
+</header>
 
 <article class="article">
   <h1>Introduction</h1>
