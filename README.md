@@ -22,7 +22,7 @@
 header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
 
-header ul {
+header {
     list-style-type: none;
     padding: 0;
 }
@@ -55,7 +55,7 @@ header ul {
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 <map name="pertumap">
-  <area shape="rect" coords="50,190,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
    
 </article>
