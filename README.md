@@ -17,6 +17,7 @@
 
 .article {
     text-align: left;
+    padding: 0;
 }
 
 header {background: #0B3B39;color:white;}
@@ -24,7 +25,7 @@ footer {background: #aaa;color:white;}
 .nav {background:#088A85;color:black}
 
 .nav ul {
-    list-style-type: none;
+    list-style-type: circle;
     padding: 0;
 }
 .nav ul a {
