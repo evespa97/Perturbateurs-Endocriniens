@@ -23,7 +23,7 @@
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 <map name="pertumap">
-  <area shape="rect" coords="75,200,150,400" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+  <area shape="rect" coords="65,190,140,425" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
    
 </article>
@@ -32,4 +32,3 @@
 </div>
 
 </body>
-</html>
