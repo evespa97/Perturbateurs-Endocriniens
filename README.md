@@ -39,7 +39,7 @@ header {
 <div class="flex-container">
 <header>
   <ul>
-  <li><a href="Explications scientifiques">Un problème de santé publique</a></li>
+  <li><a href="Explications scientifiques.html">Un problème de santé publique</a></li>
   <li><a href="#">Des intérêts confrontés</a></li>
   <li><a href="#">Une législation difficile</a></li>
 </ul>
