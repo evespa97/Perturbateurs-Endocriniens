@@ -23,8 +23,8 @@ header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
 
 header {
-    list-style-type: none;
-    padding: 0;
+    list-style-type:none;
+    padding:0;
 }
 
 @media all and (min-width: 768px) {
