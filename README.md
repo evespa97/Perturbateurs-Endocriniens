@@ -24,8 +24,8 @@ footer {background: #aaa;color:white;}
 .nav {background:white;color:black}
 
 .nav ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type:none;
+    padding:0;
 }
 .nav ul a {
     text-decoration: none;
