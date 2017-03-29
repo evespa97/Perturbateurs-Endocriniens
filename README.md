@@ -1,11 +1,23 @@
 <body style="background-color:powderblue;">
 
-# Les Perturbateurs Endocriniens
+<div class="flex-container">
+<header>
+  <h1>Les Perturbateurs endocriniens</h1>
+</header>
 
-Projet STS
+<nav class="nav">
+<ul>
+  <li><a href="#">London</a></li>
+  <li><a href="#">Paris</a></li>
+  <li><a href="#">Tokyo</a></li>
+</ul>
+</nav>
 
-Description: Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie
-
+<article class="article">
+  <h1>London</h1>
+  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
+  <p><strong>Venez découvrir la controverse!</strong></p>
+  
 <p>Cliquer sur les produits pour les voir de plus près:</p>
 
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
@@ -13,39 +25,11 @@ Description: Nous sommes six étudiantes du double cursus Sciences et Sciences S
 <map name="pertumap">
   <area shape="rect" coords="75,200,150,400" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
+   
+</article>
 
-You can use the [editor on GitHub](https://github.com/evespa97/Perturbateurs-Endocriniens/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<footer>Copyright &copy; W3Schools.com</footer>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evespa97/Perturbateurs-Endocriniens/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
