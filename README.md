@@ -14,7 +14,7 @@
 </nav>
 
 <article class="article">
-  <h1>London</h1>
+  <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
@@ -28,7 +28,7 @@
    
 </article>
 
-<footer>Copyright &copy; W3Schools.com</footer>
+<footer>Copyright &copy; The Best</footer>
 </div>
 
 </body>
