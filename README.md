@@ -56,8 +56,8 @@ footer {background: #aaa;color:white;}
 
 <article class="article">
   <h1>Introduction</h1>
-  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.
-  <strong>Venez découvrir la controverse!</strong></p>
+  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
+  <p><strong>Venez découvrir la controverse!</strong></p>
   
 <p>Cliquer sur les produits pour les voir de plus près:</p>
 
