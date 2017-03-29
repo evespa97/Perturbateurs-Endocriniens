@@ -19,9 +19,9 @@
     text-align: left;
 }
 
-header {background: black;color:white;}
+header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
-.nav {background:#eee;}
+.nav {background:#088A85;color:black}
 
 .nav ul {
     list-style-type: none;
@@ -32,7 +32,7 @@ footer {background: #aaa;color:white;}
 }
 
 @media all and (min-width: 768px) {
-    .nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
+    .nav {text-align:center;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
@@ -48,23 +48,23 @@ footer {background: #aaa;color:white;}
 
 <nav class="nav">
 <ul>
-  <li><a href="#">London</a></li>
-  <li><a href="#">Paris</a></li>
-  <li><a href="#">Tokyo</a></li>
+  <li><a href="#">Un problème de santé publique</a></li>
+  <li><a href="#">Des intérêts confrontés</a></li>
+  <li><a href="#">Une législation difficile</a></li>
 </ul>
 </nav>
 
 <article class="article">
   <h1>Introduction</h1>
-  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
-  <p><strong>Venez découvrir la controverse!</strong></p>
+  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.
+  <strong>Venez découvrir la controverse!</strong></p>
   
 <p>Cliquer sur les produits pour les voir de plus près:</p>
 
 <img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 <map name="pertumap">
-  <area shape="rect" coords="60,190,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
+  <area shape="rect" coords="55,190,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
 </map>
    
 </article>
