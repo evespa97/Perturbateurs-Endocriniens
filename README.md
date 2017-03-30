@@ -59,6 +59,7 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+    position: relative;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
@@ -66,13 +67,8 @@
     background-color: #0B3B39;
 }
 
-header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
 
-header {
-    list-style-type:none;
-    padding:0;
-}
 
 @media all and (min-width: 768px) {
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
