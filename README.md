@@ -21,7 +21,7 @@
 
 /* Style The Dropdown Button */
 .dropbtn {
-    background-color: powderblue;
+    background-color: #0B3B39;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -38,8 +38,8 @@
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    position: relative;
-    background-color: #0B3B39;
+    position: center;
+    background-color: none;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
