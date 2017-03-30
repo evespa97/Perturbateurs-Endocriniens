@@ -52,7 +52,7 @@
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    position: absolute;
+    position: relative;
 }
 
 /* Change color of dropdown links on hover */
@@ -90,7 +90,7 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">Un problème de santé publique</button>
   <div class="dropdown-content">
-    <a href="#">Article 1</a>
+    <a href="#">Recherchers Scientifiques</a>
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
     </div>  
@@ -99,8 +99,8 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">Des intérêts confrontés</button>
   <div class="dropdown-content">
-    <a href="#">Article 1</a>
-    <a href="#">Article 2</a>
+    <a href="#">Lobby</a>
+    <a href="#">Assos</a>
     <a href="#">Article 3</a>
   </div>
 </div>
@@ -108,7 +108,7 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">Une législation difficile</button>
   <div class="dropdown-content">
-    <a href="#">Article 1</a>
+    <a href="#">Comission Européenne</a>
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
   </div>
