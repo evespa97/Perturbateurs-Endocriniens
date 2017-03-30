@@ -99,8 +99,7 @@ header {
     <a href="#">Article 1</a>
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
-  </div>
-</div>
+    </div>
 
 <div class="dropdown">
   <button class="dropbtn">Des intérêts confrontés</button>
@@ -109,7 +108,6 @@ header {
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
   </div>
-</div>
 
 <div class="dropdown">
   <button class="dropbtn">Une législation difficile</button>
