@@ -83,6 +83,7 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
 <button class="dropbtn"><a href="#">Accueil</a></button>
     </div>
+</div>
   
 <div class="dropdown">
   <button class="dropbtn">Un problème de santé publique</button>
@@ -91,6 +92,7 @@ footer {background: #aaa;color:white;}
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
     </div>  
+</div>
 
 <div class="dropdown">
   <button class="dropbtn">Des intérêts confrontés</button>
@@ -99,6 +101,7 @@ footer {background: #aaa;color:white;}
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
   </div>
+</div>
 
 <div class="dropdown">
   <button class="dropbtn">Une législation difficile</button>
