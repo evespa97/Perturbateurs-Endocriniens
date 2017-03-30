@@ -102,6 +102,24 @@ header {
   </div>
 </div>
 
+<div class="dropdown">
+  <button class="dropbtn">Des intérêts confrontés</button>
+  <div class="dropdown-content">
+    <a href="#">Article 1</a>
+    <a href="#">Article 2</a>
+    <a href="#">Article 3</a>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn">Une législation difficile</button>
+  <div class="dropdown-content">
+    <a href="#">Article 1</a>
+    <a href="#">Article 2</a>
+    <a href="#">Article 3</a>
+  </div>
+</div>
+
 <article class="article">
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
