@@ -37,7 +37,7 @@
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
-    display: block;
+    display: none;
     position: absolute;
     background-color: none;
     min-width: 160px;
