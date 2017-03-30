@@ -50,7 +50,7 @@
 .dropdown-content a {
     color: white;
     padding: 12px 16px;
-    text-decoration: circle;
+    text-decoration: none;
     display: block;
 }
 
@@ -60,7 +60,6 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    position: absolute;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
