@@ -38,7 +38,7 @@
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: block;
-    position: center;
+    position: relative;
     background-color: none;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
