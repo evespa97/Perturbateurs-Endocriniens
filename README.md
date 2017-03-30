@@ -64,6 +64,13 @@ header {
 </ul>
 </header>
 
+<div class="dropdown">
+  <span>Mouse over me</span>
+  <div class="dropdown-content">
+    <p>Article 1</p>
+  </div>
+</div>
+
 <article class="article">
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
@@ -80,13 +87,6 @@ header {
 </article>
 
 <footer>Copyright &copy; The Best</footer>
-</div>
-
-<div class="dropdown">
-  <span>Mouse over me</span>
-  <div class="dropdown-content">
-    <p>Hello World!</p>
-  </div>
 </div>
 
 </body>
