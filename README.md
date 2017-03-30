@@ -19,6 +19,25 @@
     text-align: left;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0B3B39;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 header {background: #0B3B39;color:white;}
 footer {background: #aaa;color:white;}
 
@@ -61,6 +80,13 @@ header {
 </article>
 
 <footer>Copyright &copy; The Best</footer>
+</div>
+
+<div class="dropdown">
+  <span>Mouse over me</span>
+  <div class="dropdown-content">
+    <p>Hello World!</p>
+  </div>
 </div>
 
 </body>
