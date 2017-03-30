@@ -39,7 +39,7 @@
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    position: center;
+    position: absolute;
     background-color: none;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -61,6 +61,7 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+    position: absolute;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
