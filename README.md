@@ -52,7 +52,7 @@
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    position: absolute;
+    position: relative;
 }
 
 /* Change color of dropdown links on hover */
