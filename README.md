@@ -1,5 +1,6 @@
 <html>
 <style> 
+
 .flex-container {
     display: -webkit-flex;
     display: flex;  
@@ -110,8 +111,6 @@ footer {background: #aaa;color:white;}
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
   </div>
-</div>
-
 
 
 <article class="article">
