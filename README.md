@@ -94,12 +94,16 @@ header {
 </header>
 
 <div class="dropdown">
+  <button class="dropbtn">href="#"Accueil</button>
+    </div>
+  
+<div class="dropdown">
   <button class="dropbtn">Un problème de santé publique</button>
   <div class="dropdown-content">
     <a href="#">Article 1</a>
     <a href="#">Article 2</a>
     <a href="#">Article 3</a>
-    </div>
+    </div>  
 
 <div class="dropdown">
   <button class="dropbtn">Des intérêts confrontés</button>
