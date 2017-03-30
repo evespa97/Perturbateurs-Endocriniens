@@ -21,7 +21,7 @@
 
 /* Style The Dropdown Button */
 .dropbtn {
-    background-color: #4CAF50;
+    background-color: #0B3B39;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -32,7 +32,6 @@
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
-    background-color: #0B3B39;
     display: inline-block;
 }
 
