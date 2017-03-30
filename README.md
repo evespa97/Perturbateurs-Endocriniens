@@ -52,6 +52,7 @@
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+    position: absolute;
 }
 
 /* Change color of dropdown links on hover */
@@ -60,7 +61,6 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    position:relative;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
