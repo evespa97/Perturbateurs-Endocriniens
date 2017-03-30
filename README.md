@@ -32,13 +32,14 @@
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
+    background-color: #0B3B39;
     display: inline-block;
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #0B3B39;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -47,7 +48,7 @@
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: black;
+    color: white;
     padding: 12px 16px;
     text-decoration: circle;
     display: block;
