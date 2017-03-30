@@ -60,7 +60,7 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-    position:center;
+    position:relative;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
@@ -70,13 +70,13 @@
 
 footer {background: #aaa;color:white;}
 
-
 @media all and (min-width: 768px) {
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
-</head>
+
 </style>
+</head>
 
 <body style="background-color:powderblue;">
 
