@@ -1,4 +1,5 @@
 <html>
+<head>
 <style> 
 
 .flex-container {
@@ -74,7 +75,7 @@ footer {background: #aaa;color:white;}
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
-
+</head>
 </style>
 
 <body style="background-color:powderblue;">
