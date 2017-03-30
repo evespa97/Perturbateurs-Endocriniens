@@ -38,7 +38,7 @@
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
-    position: fixed;
+    position: absolute;
     background-color: none;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -85,13 +85,6 @@ header {
 <body style="background-color:powderblue;">
 
 <div class="flex-container">
-<header>
-  <ul>
-  <li><a href="Explications scientifiques.md">Un problème de santé publique</a></li>
-  <li><a href="#">Des intérêts confrontés</a></li>
-  <li><a href="#">Une législation difficile</a></li>
-</ul>
-</header>
 
 <div class="dropdown">
 <button class="dropbtn"><ahref="#">Accueil</a></button>
@@ -121,6 +114,8 @@ header {
     <a href="#">Article 3</a>
   </div>
 </div>
+
+
 
 <article class="article">
   <h1>Introduction</h1>
