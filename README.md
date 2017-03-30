@@ -76,14 +76,13 @@ footer {background: #aaa;color:white;}
 }
 
 </style>
-</head>
 
 <body style="background-color:powderblue;">
 
 <div class="flex-container">
 
 <div class="dropdown">
-<button class="dropbtn"><ahref="#">Accueil</a></button>
+<button class="dropbtn"><a href="#">Accueil</a></button>
     </div>
   
 <div class="dropdown">
