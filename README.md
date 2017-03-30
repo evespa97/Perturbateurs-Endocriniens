@@ -60,6 +60,7 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+    position:relative;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
