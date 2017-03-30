@@ -1,5 +1,4 @@
 <html>
-<head>
 <style> 
 .flex-container {
     display: -webkit-flex;
