@@ -32,7 +32,7 @@
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: absolute;
+    position: relative;
     display: inline;
 }
 
@@ -52,7 +52,7 @@
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    position: center;
+    position: relative;
 }
 
 /* Change color of dropdown links on hover */
