@@ -50,20 +50,20 @@
     color: white;
     padding: 12px 16px;
     text-decoration: circle;
-    display: flex;
+    display: block;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #0B3B39}
+.dropdown-content a:hover {background-color: powderblue}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-    display: block;
+    display: flex;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #0B3B39;
 }
 
 header {background: #0B3B39;color:white;}
