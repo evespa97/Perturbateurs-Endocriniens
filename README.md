@@ -91,8 +91,8 @@ footer {background: #aaa;color:white;}
   <button class="dropbtn">Un problème de santé publique</button>
   <div class="dropdown-content">
     <a href="#">Recherchers Scientifiques</a>
-    <a href="#">Article 2</a>
-    <a href="#">Article 3</a>
+    <a href="#">Classifications</a>
+    <a href="#">Fiches scandale</a>
     </div>  
 </div>
 
@@ -101,7 +101,7 @@ footer {background: #aaa;color:white;}
   <div class="dropdown-content">
     <a href="#">Lobby</a>
     <a href="#">Assos</a>
-    <a href="#">Article 3</a>
+    <a href="#">Consommateurs</a>
   </div>
 </div>
 
@@ -109,8 +109,8 @@ footer {background: #aaa;color:white;}
   <button class="dropbtn">Une législation difficile</button>
   <div class="dropdown-content">
     <a href="#">Comission Européenne</a>
-    <a href="#">Article 2</a>
-    <a href="#">Article 3</a>
+    <a href="#">Gouvernement Français</a>
+    <a href="#">Définition</a>
   </div>
 
 
