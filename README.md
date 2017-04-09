@@ -111,7 +111,8 @@ footer {background: #aaa;color:white;}
   <div class="dropdown-content">
     <a href="#">Comission Européenne</a>
     <a href="#">Gouvernement Français</a>
-    <a href="#">Définition</a>
+    <a href="#">Définition</a>
+    <a href="#">Solution</a>
   </div>
 
 
