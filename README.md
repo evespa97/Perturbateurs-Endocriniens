@@ -134,5 +134,6 @@ footer {background: #aaa;color:white;}
 <footer>Copyright &copy; The Best</footer>
 </div>
 
+
 </body>
 </html>
