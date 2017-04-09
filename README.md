@@ -145,7 +145,7 @@ Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) cr
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
 
-<img src="2.png" alt="Watchfrog 1 .png" usemap="#pertumap" style="width:600px;height:600px;">
+<img src="Watchfrog 1 .png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 Le laboratoire testent les échantillons envoyés par les entreprises et analyse sur le produit présente des perturbateurs endocriniens et si ces derniers sont à une dose réellement problématique et néfaste pour l’homme. Cette méthode est utilisée pour analyser l’eau mais également les aliments, les produits cosmétiques et les emballages. 
