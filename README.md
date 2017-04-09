@@ -95,7 +95,7 @@ footer {background: #aaa;color:white;}
 
 <p><strong> Comment s'en protéger? <p></strong>
 
-<p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: 
+<p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: <br />
 - manger bio<br />
 - utiliser le moins de plats préparés contenus dans des plastiques<br />
 - de ne surtout pas faire réchauffer au micro ondes des plats contenus dans les plastiques<br /> 
@@ -105,8 +105,23 @@ footer {background: #aaa;color:white;}
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-   
-   
+  <p><strong>→Alimentation: <p></strong>  
+<p> - Ne jamais acheter de produits gras : huiles, sauces, margarines, plats préparés… ni dans des emballages plastiques, ni dans des conserves ou des cannettes (enduites de plastique). <br />
+
+- Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade – préférer les petits poissons: hareng, maquereau, sardine, anchois non salés – riches en oméga 3 et moins pollués (sauf quelques sardines d’estuaire régulièrement interdites car trop riches en PCB). <br />
+
+- Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
+
+- Préférer les produits bios (les trois produits non bio les plus riches en perturbateurs endocriniens sont les laitues, les tomates, les concombre). <br />
+
+- Les agressions thermiques, en particulier au barbecue, peuvent aussi engendrer des perturbateurs endocriniens carcinogènes comme le benzopyrène. Il faut éviter le contact avec les braises qui devraient être non pas sous les aliments à cuire, mais à côté (barbecues verticaux)<br />
+
+- Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
+
+
+
+
+
 </article>
 
 <footer>Copyright &copy; The Best</footer>
