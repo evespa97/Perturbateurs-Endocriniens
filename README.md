@@ -79,7 +79,7 @@ footer {background: #aaa;color:white;}
 </style>
 </head>
 
-<body style="background-color:powderred;">
+<body style="background-color:powderblue;">
 
 <div class="flex-container">
 
