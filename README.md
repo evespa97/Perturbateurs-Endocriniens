@@ -86,17 +86,25 @@ footer {background: #aaa;color:white;}
 
 <article class="article">
   <h1>Peut-on vraiment se passer des perturbateurs endoctriniens ?</h1>
-  <h2>Les perturbateurs endocriniens sont partout</h2>
-  <p>Dans une étude publiée fin avril, l’UFC-Que insiste sur l’omniprésence des perturbateurs endocriniens dans notre environnement. Comme l’explique le docteur Gérald Kierzek «la protection n’est pas simple puisque les perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
-  <p><strong>Venez découvrir la controverse!</strong></p>
+ <p><strong>Les perturbateurs endocriniens sont partout<p><strong>
+  <p>Dans une étude publiée fin avril, l’UFC-Que choisir insiste sur l’omniprésence des perturbateurs endocriniens dans notre environnement. Comme l’explique le docteur Gérald Kierzek «la protection n’est pas simple puisque les perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
   
 <p>Cliquer sur les différents lieux de la maison! </p>
 
 <img src="Capture d’écran 2017-04-09 à 16.40.47.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
-<map name="pertumap">
-  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
-</map>
+<p><strong> Comment s'en protéger? <p><strong>
+<p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: 
+- manger bio
+- utiliser le moins de plats préparés contenus dans des plastiques 
+- de ne surtout pas faire réchauffer au micro ondes des plats contenus dans les plastiques 
+- éteindre les appareils électronique la nuit (ordinateur, portable, télévision..) 
+- ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates
+- éviter les poêles en téflon mais plutôt des poêles en acier</p>
+   
+   <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">link text</a> </p>
+   
+   
    
 </article>
 
