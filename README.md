@@ -91,7 +91,7 @@ footer {background: #aaa;color:white;}
 <div class="dropdown">
   <button class="dropbtn">Un problème de santé publique</button>
   <div class="dropdown-content">
-    <a href="#">Recherchers Scientifiques</a>
+    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
     <a href="#">Classifications</a>
     <a href="#">Fiches scandale</a>
     </div>  
