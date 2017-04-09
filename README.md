@@ -116,7 +116,6 @@ footer {background: #aaa;color:white;}
   </div>
 </div>
 
-
 <article class="article">
   <h1>Introduction</h1>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
