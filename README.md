@@ -84,7 +84,7 @@ footer {background: #aaa;color:white;}
 <div class="flex-container">
 
 <div class="dropdown">
-<button class="dropbtn"><a href="#">Accueil</a></button>
+<button class="dropbtn"><a href="https://evespa97.github.io/Perturbateurs-Endocriniens/">Accueil</a></button>
     </div>
 </div>
   
