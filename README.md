@@ -114,6 +114,7 @@ footer {background: #aaa;color:white;}
     <a href="#">Définition</a>
     <a href="#">Solution</a>
   </div>
+</div>
 
 
 <article class="article">
