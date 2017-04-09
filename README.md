@@ -96,12 +96,12 @@ footer {background: #aaa;color:white;}
 <p><strong> Comment s'en protéger? <p></strong>
 
 <p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: 
-- manger bio
-- utiliser le moins de plats préparés contenus dans des plastiques 
-- de ne surtout pas faire réchauffer au micro ondes des plats contenus dans les plastiques 
-- éteindre les appareils électronique la nuit (ordinateur, portable, télévision..) 
-- ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates
-- éviter les poêles en téflon mais plutôt des poêles en acier</p>
+- manger bio<br />
+- utiliser le moins de plats préparés contenus dans des plastiques<br />
+- de ne surtout pas faire réchauffer au micro ondes des plats contenus dans les plastiques<br /> 
+- éteindre les appareils électronique la nuit (ordinateur, portable, télévision..)<br /> 
+- ne pas utiliser des crèmes et cosmétique qui contiennent du parabène et des phtalates<br />
+- éviter les poêles en téflon mais plutôt des poêles en acier<br /></p>
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
