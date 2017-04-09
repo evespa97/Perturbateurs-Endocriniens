@@ -105,8 +105,8 @@ footer {background: #aaa;color:white;}
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-  <p><strong>→Alimentation: <p></strong>  
-<p> - Ne jamais acheter de produits gras : huiles, sauces, margarines, plats préparés… ni dans des emballages plastiques, ni dans des conserves ou des cannettes (enduites de plastique). <br />
+  <p><strong>→Alimentation: <p></strong>  <br /> <p>
+- Ne jamais acheter de produits gras : huiles, sauces, margarines, plats préparés… ni dans des emballages plastiques, ni dans des conserves ou des cannettes (enduites de plastique). <br />
 
 - Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade – préférer les petits poissons: hareng, maquereau, sardine, anchois non salés – riches en oméga 3 et moins pollués (sauf quelques sardines d’estuaire régulièrement interdites car trop riches en PCB). <br />
 
@@ -118,7 +118,37 @@ footer {background: #aaa;color:white;}
 
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
+<p><strong>→Médicaments et cosmétiques <p></strong>  <p>
+- Ne pas acheter de cosmétiques contenant des parabènes. <br />
 
+- Eviter les médicaments gastro-résistants <br />
+
+- Refuser les médicaments contenant du toluène – aussi reprotoxique -, en particulier plusieurs présentations courantes en France de vitamine D. <br />
+
+- Éviter les parfums qui sont aujourd’hui quasiment tous de synthèse. <br />
+
+- Même chose dans les ongleries. L’acétone qui sert à dissoudre les vernis à ongles est un dérivé benzénique. <br /> </p>
+
+
+  <p><strong>→Vêtements, Logements, produits ménagers, d’entretien, désodorisants: <p></strong>  <br /> <p>
+
+- Utiliser des poudres bio pour laver les vêtements. <br />
+
+- Réduire au maximum les contreplaqués et moquettes, tissus, qui contiennent des retardateurs de flamme et émettent des poussières, les poussières étant des concentrateurs de perturbateurs endocriniens qui sont ainsi inhalés.<br /> 
+
+- S’il y a une moquette : la nettoyer une fois par mois à la vapeur<br />
+
+- Aérer au maximum <br />
+
+- Ne pas utiliser d’insecticides chimiques. <br />
+
+- Ne pas utiliser de désodorisants chimiques qui contiennent des dérivés benzéniques. On peut très bien les remplacer par des huiles essentielles. <br />
+
+- Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
+
+<p><strong>→Travail <p></strong>  <br /> <p>
+
+- Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
 
 
 
