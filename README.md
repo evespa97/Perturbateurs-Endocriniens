@@ -141,11 +141,17 @@ footer {background: #aaa;color:white;}
 <p>               WatchFrog: La biologie au service de la détection des perturbateurs endocriniens <p>
 
 
+<html>
+<head>
+<style>
 img {
     float: right;
     border: 1px dotted black;
     margin: 0px 0px 15px 20px;
 }
+</style>
+</head>
+<body>
 
 
 <p><img src="2" width="248" height="104">
@@ -154,11 +160,17 @@ Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) cr
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
 
- img {
-    float: right;
+<html>
+<head>
+<style>
+img {
+    float: left;
     border: 1px dotted black;
     margin: 0px 0px 15px 20px;
 }
+</style>
+</head>
+<body>
 
 <p><img src="watchfrog 1" width="268" height="186">
 
