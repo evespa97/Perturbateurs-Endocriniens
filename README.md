@@ -105,7 +105,7 @@ footer {background: #aaa;color:white;}
    
    <p> Jean-Paul Curtay, nutrithérapeute donne différents conseils à retrouver sur le site :<a href="https://www.wedemain.fr/Les-perturbateurs-endocriniens-sont-partout-comment-les-eliminer-de-nos-vies_a1393.html ">Ici</a> </p>
    
-  <p><strong>→Alimentation: <p></strong>  <br /> <p>
+  <p><strong>→Alimentation: <p></strong><br /> <p>
 - Ne pas consommer de poissons grands prédateurs comme requin, espadon, mérou…trop pollués, ne pas consommer plus d’une fois par semaine les moyens prédateurs comme le thon et la daurade <br />
 
 - Ne jamais consommer de foies ou d’abats de bêtes non biologiques et leurs dérivés (foie gras, pâtés…). <br />
@@ -116,7 +116,7 @@ footer {background: #aaa;color:white;}
 
 - Ne pas utiliser les verres en polystyrène (un dérivé benzénique) pour les boissons chaudes.<br /> </p>
 
-<p><strong>→Médicaments et cosmétiques <p></strong>  <p>
+<p><strong>→Médicaments et cosmétiques <p></strong>  <br /> <p>
 - Ne pas acheter de cosmétiques contenant des parabènes. <br />
 
 - Eviter les médicaments gastro-résistants <br />
@@ -133,7 +133,6 @@ footer {background: #aaa;color:white;}
 - Exiger des pompes à essence un bouchon hermétique qui empêche d’inhaler les vapeurs d’essence car elles contiennent encore en France 1% de benzène, qui est génotoxique et augmente les risques de leucémies. <br />
 
 <p><strong>→Travail <p></strong>  <br /> <p>
-
 - Se renseigner auprès de la Médecine du Travail sur la présence ou non de perturbateurs endocriniens sur son lieu de travail et obtenir la qualité d’aération et de protection adaptée. <br /> </p>
 
 
