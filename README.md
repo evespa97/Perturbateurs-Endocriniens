@@ -138,7 +138,7 @@ footer {background: #aaa;color:white;}
   <div class="dropdown-content">
     <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
     <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Classifications</a>
-    <a href="# ">Fiches scandale</a>
+    <a href="https://facebook.com">Fiches scandale</a>
     </div>  
 </div>
 
