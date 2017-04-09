@@ -139,35 +139,12 @@ footer {background: #aaa;color:white;}
 <p>               WatchFrog: La biologie au service de la détection des perturbateurs endocriniens <p>
 
 
-<html>
-<head>
-<style>
-img {
-    float: right;
-    border: 1px dotted black;
-    margin: 0px 0px 15px 20px;
-}
-
-<body>
-
-
 <p><img src="2.png" width="248" height="104">
 La directive 2000/60/CE appliquée par l’Union Européenne depuis le 22 octobre 2000 a pour objectif de “mettre fin à la détérioration de l’état des masses d’eau pour parvenir au bon état des rivières et eaux souterraines”. En particulier, cette directive impose à chaque état d'analyser l’eau de leur bassin et d’élaborer des stratégies pour l’améliorer. Compte tenu de l’importance accrue du problème des perturbateurs endocriniens, il a donc fallu créer des tests pour les détecter. 
 Ainsi en 2006, deux chercheurs du CNRS (Barbara Demeneix et Grégory Lemkine) créent une méthode unique et innovante pour détecter les perturbateurs endocriniens et fondent alors une start-up, WatchFrog. 
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 </p>
 
-<html>
-<head>
-<style>
-img {
-    float: left;
-    border: 1px dotted black;
-    margin: 0px 0px 15px 20px;
-}
-</style>
-</head>
-<body>
 
 <p><img src="Watchfrog 1 .png" width="268" height="186">
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
