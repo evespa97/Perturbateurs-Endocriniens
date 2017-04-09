@@ -92,7 +92,7 @@ footer {background: #aaa;color:white;}
   
 <p>Cliquer sur les différents lieux de la maison! </p>
 
-<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
+<img src="Capture d’écran 2017-04-09 à 16.40.47.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
 <map name="pertumap">
   <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
