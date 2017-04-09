@@ -76,8 +76,6 @@ footer {background: #aaa;color:white;}
     footer {-webkit-order:3;order:3;}
 }
 
-</style>
-</head>
 
 <body style="background-color:powderblue;">
 
@@ -149,8 +147,7 @@ img {
     border: 1px dotted black;
     margin: 0px 0px 15px 20px;
 }
-</style>
-</head>
+
 <body>
 
 
@@ -172,24 +169,23 @@ img {
 </head>
 <body>
 
-<p><img src="watchfrog 1.png" width="268" height="186">
+<p><img src="Watchfrog 1.png" width="268" height="186">
 L’idée est d’utiliser des larves d’amphibiens qui deviennent fluorescentes en présence de micropolluants. Le laboratoire utilise en effet des larves et des alevins au stade ‘post-oeuf’ (entre 0 et 8 jours, qui ne ressentent donc pas la douleur) dotés de bio-marqueurs qui s’allument au contact de perturbateurs endocriniens. Cette technique permet de plus de déterminer l’effet indésirable d’un ‘cocktail’ de différentes molécules. 
 Le laboratoire testent les échantillons envoyés par les entreprises et analyse sur le produit présente des perturbateurs endocriniens et si ces derniers sont à une dose réellement problématique et néfaste pour l’homme. Cette méthode est utilisée pour analyser l’eau mais également les aliments, les produits cosmétiques et les emballages. 
 
 L’entreprise travail maintenant en partenariat avec Véolia, et a mis sur le marché une FrogBox: une boîte avec des têtards directement utilisable par le client. La FrogBox est disponible auprès des municipalités. </p>
-<p>
+
 
 </body>
 </html>
-
+<p>
 <a href="http://www.watchfrog.fr/">Site Watchfrog </a> </p>
 <p> <a href="http://eur-lex.europa.eu/resource.html?uri=cellar:5c835afb-2ec6-4577-bdf8-756d3d694eeb.0001.02/DOC_1&format=PDF">Directive européenne 2000/60/CE:  </a> </p>
 
 
-</article>
 
 <footer>Copyright &copy; The Best</footer>
-</div>
 
-</body>
-</head>
+
+
+<body>
