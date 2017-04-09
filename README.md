@@ -83,40 +83,10 @@ footer {background: #aaa;color:white;}
 
 <div class="flex-container">
 
-<div class="dropdown">
-<button class="dropbtn"><a href="https://evespa97.github.io/Perturbateurs-Endocriniens/">Accueil</a></button>
-    </div>
-</div>
-  
-<div class="dropdown">
-  <button class="dropbtn">Un problème de santé publique</button>
-  <div class="dropdown-content">
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
-    <a href="#">Classifications</a>
-    <a href="#">Fiches scandale</a>
-    </div>  
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Des intérêts confrontés</button>
-  <div class="dropdown-content">
-    <a href="#">Lobby</a>
-    <a href="#">Assos</a>
-    <a href="#">Consommateurs</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Une législation difficile</button>
-  <div class="dropdown-content">
-    <a href="#">Comission Européenne</a>
-    <a href="#">Gouvernement Français</a>
-    <a href="#">Définition</a>
-  </div>
-
 
 <article class="article">
-  <h1>Introduction</h1>
+  <h1>Peut-on vraiment se passer des perturbateurs endoctriniens ?</h1>
+  <h2>Valentin nique ta mère</h2>
   <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
   <p><strong>Venez découvrir la controverse!</strong></p>
   
