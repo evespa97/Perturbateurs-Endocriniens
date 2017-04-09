@@ -86,14 +86,14 @@ footer {background: #aaa;color:white;}
 
 <article class="article">
   <h1>Peut-on vraiment se passer des perturbateurs endocriniens?</h1>
- <p>Les perturbateurs endocriniens sont partout<p>
+ <p><strong>Les perturbateurs endocriniens sont partout<p></strong>
  <p>Dans une étude publiée fin avril, l’UFC-Que choisir insiste sur l’omniprésence des perturbateurs endocriniens dans notre environnement. Comme l’explique le docteur Gérald Kierzek «la protection n’est pas simple puisque les perturbateurs endocriniens sont partout ». Les perturbateurs endocriniens seraient présents dans plus de 400 produits du quotidien  (aliments, médicaments, produits ménagers, cosmétiques...).</p>
   
 <p>Cliquer sur les différents lieux de la maison! </p>
 
 <img src="Capture d’écran 2017-04-09 à 16.40.47.png" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
 
-<p><strong> Comment s'en protéger? <p><strong>
+<p><strong> Comment s'en protéger? <p></strong>
 
 <p>Barbara Demeneix s'intéresse particulièrement à l’impact des perturbateurs endocriniens sur les femmes enceintes et prouve la manière dont il impact le développement du cerveau de leurs enfants. Elle conseille à ces femmes de: 
 - manger bio
