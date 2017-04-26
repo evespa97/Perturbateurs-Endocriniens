@@ -1,135 +1,188 @@
+<!DOCTYPE html>
 <html>
-<head>
-<style> 
-
-.flex-container {
-    display: -webkit-flex;
-    display: flex;  
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
-    text-align: center;
-}
-
-.flex-container > * {
-    padding: 15px;
-    -webkit-flex: 1 100%;
-    flex: 1 100%;
-}
-
-.article {
-    text-align: left;
-}
-
-
-
-
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: #3e8e41;
-}
-
-
-
-footer {background: #aaa;color:white;}
-
-@media all and (min-width: 768px) {
-    .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
-    footer {-webkit-order:3;order:3;}
-}
-
-</style>
-</head>
-
-<body style="background-color:powderblue;">
-
-<div class="flex-container">
-
-<div class="dropdown">
-<button class="dropbtn"><a href="https://evespa97.github.io/Perturbateurs-Endocriniens/">Accueil</a></button>
-    </div>
-</div>
-  
-<div class="dropdown">
-  <button class="dropbtn">Un problème de santé publique</button>
-  <div class="dropdown-content">
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Recherches-Scientifiques">Recherches Scientifiques</a>
-    <a href="https://evespa97.github.io/Perturbateurs-Endocriniens/Solution/">Classifications</a>
-    <a href="https://facebook.com">Fiches scandale</a>
-    </div>  
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Des intérêts confrontés</button>
-  <div class="dropdown-content">
-    <a href="#">Lobby</a>
-    <a href="#">Assos</a>
-    <a href="#">Consommateurs</a>
-  </div>
-</div>
-
-<div class="dropdown">
-  <button class="dropbtn">Une législation difficile</button>
-  <div class="dropdown-content">
-    <a href="#">Comission Européenne</a>
-    <a href="#">Gouvernement Français</a>
-    <a href="#">Définition</a>
-    <a href="https://github.com/evespa97/Perturbateurs-Endocriniens/blob/Solution/">Solution</a>
-  </div>
-</div>
-
-<article class="article">
-  <h1>Introduction</h1>
-  <p>Nous sommes six étudiantes du double cursus Sciences et Sciences Sociales entre SciencesPo et l'université Pierre et Marie Curie.</p>
-  <p><strong>Venez découvrir la controverse!</strong></p>
-  
-<p>Cliquer sur les produits pour les voir de plus près:</p>
-
-<img src="perturbateurs endocriniens.jpg" alt="Perturbateurs endocriniens" usemap="#pertumap" style="width:600px;height:600px;">
-
-<map name="pertumap">
-  <area shape="rect" coords="45,195,140,430" alt="Biberon" href="http://social-sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/article/bisphenol-a">
-</map>
-   
-</article>
-
-<footer>Copyright &copy; The Best</footer>
-</div>
+    <head>
+        <title>SCIENCE/SPOT</title>
+        <meta name="viewport" content="initial-scale=1.0">
+        <meta charset="utf-8">
+        <link rel="icon" type="image/png" href="https://tomfevrier.github.io/sciencespot/media/icon.png" />
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <link rel="stylesheet" href="https://tomfevrier.github.io/sciencespot/libraries/powerange.css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Work+Sans:900" rel="stylesheet">
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="CSVParsing.js"></script>
+        <script type="text/javascript" src="map.js"></script>
+        <script type="text/javascript" src="sidebar.js"></script>
+        <script src="https://tomfevrier.github.io/sciencespot/libraries/smooth-scroll.js"></script>
+        <script>
+            smoothScroll.init({speed: 1500});
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJDvuny3q2sl3IhKzqN2o6Ctja9AWfGzc" async defer></script>
+    </head>
+    <body onload='initMap()'>
+        <header>
+            <h1>SCIENCE/SPOT</h1>
+            <h2>Indicateur du logement sciences-piste idéal</h2>
+            <p>Découvre ton quartier idéal selon tes propres critères</p>
+            <div id='domains'>
+                <div class='domain-with-name'>
+                    <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Coût de la vie</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Transport</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Cadre de vie</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Sorties</p>
+                </div>
+                <div class='domain-with-name'>
+                    <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center;'/>
+                    <p>Culture</p>
+                </div>
+            </div>
+            <a data-scroll id='toInterface' href="#interface"><p align="center"><img src="media/arrow.png"></p><a>
+        </header>
+        <div id='interface'>
+            <div id="map"></div>
+            <div id='sidebar'>
+                <div id='instruction'>Note les différents critères en fonction de l'importance que tu y accordes</div>
+                <div class='slider-wrapper'>
+    				<input type="text" id="coutDeLaVie" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="transport" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="cadreDeVie" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="sorties" />
+                </div>
+                <div class='slider-wrapper'>
+                    <input type="text" id="culture" />
+                </div>
+                <section class='viewMap'>
+                    <button id='viewMap'>VALIDER</button>
+                </section>
+                <div id='info'>
+                    <p>Ton quartier idéal est...<p>
+                    <div id='quartierIdeal'></div>
+                    <div id='infosIdeal'>Sélectionne tes critères pour le savoir !</div>
+                </div>
+                <div id='linkPlus'></div>
+            </div>
+        </div>
 
 
-</body>
+        <div id='credits'>
+            <div id='columns'>
+                <div id='details-index'>
+                    <h2>En détails</h2>
+                    <div class='details-domain'>
+                        <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Niveau moyen des loyers par quartier pour un logement étudiant type&nbsp;&nbsp;&nbsp;<b>70 %</b></p>
+                        <p>Prix du panier moyen par arrondissement&nbsp;&nbsp;&nbsp;<b>30 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Nombre de stations de Vélib par quartier&nbsp;&nbsp;&nbsp;<b>14 %</b></p>
+                        <p>Temps de trajet en transports en commun entre chaque quartier et Sciences Po&nbsp;&nbsp;&nbsp;<b>86 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Proportion d'espaces verts par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Proportion de vols et de violences crapuleuses par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Prix moyen de la pinte de bière par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Nombre de soirées sciences-pistes ayant eu lieu par arrondissement&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                    <div class='details-domain'>
+                        <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom: 0;'/>
+                        <p>Nombre de cinémas par quartier &nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                        <p>Nombre de musées par quartier&nbsp;&nbsp;&nbsp;<b>50 %</b></p>
+                    </div>
+                </div>
+                <div id='aPropos'>
+                    <h2>À propos...</h2>
+                    <p><b>SCIENCE/SPOT</b> a été réalisé dans le cadre du cours <i>Mesurer le bien-être et la soutenabilité au XXI<sup>ème</sup> siècle</i> d'Éloi LAURENT et Jacques LE CACHEUX à Sciences Po.</p>
+                    <p>Nous sommes partis du constat que 80 % de la population française est aujourd'hui urbaine : nous nous sommes donc attachés à définir une mesure du bien-être urbain, à destination des étudiant.e.s de Sciences Po recherchant un logement à Paris.</p>
+                    <p>En se fondant sur cinq critères, chacun décomposé en deux sous-indices, nous donnons la possibilité à l'utilisat.eur.rice de créer son propre indicateur, en choisissant les poids qu'iel souhaite accorder à chaque composante. Le calcul de l'indice final repose sur une simple moyenne pondérée. Le détail des sous-indices et les sources des données sont disponibles ci-contre.</p>
+                    <p><a href='https://tomfevrier.github.io/sciencespot/downloads/Donn%C3%A9es.xlsx' class='download' download="Données.xlsx">Télécharger les données</a></p>
+                    <p><a href='https://tomfevrier.github.io/sciencespot/downloads/Paper%20final.pdf' class='download' download="Paper.pdf">Télécharger le paper</a></p>
+                    <div id='copyright'>
+                        <p>© Gilles COLLOMBET-GOURDON & Tom FÉVRIER&nbsp;&nbsp;~&nbsp;&nbsp;2017</p>
+                    </div>
+                </div>
+                <div id='sources'>
+                    <h2>Sources des données</h2>
+                    <div class='sources-domain'>
+                        <img src='media/coutDeLaVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom:-1.2vmin;'/>
+                        <a href='http://www.referenceloyer.drihl.ile-de-france.developpement-durable.gouv.fr' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>L'encadrement des loyers à Paris</p>
+                            <p style='font-size: 1.2vmin;'><i>Ministère du Logement et de l'Habitat Durable</i></p>
+                        </a>
+                        <a href='https://www.quechoisir.org/carte-interactive-drives-n21243/' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Palmarès des supermarchés parisiens</p>
+                            <p style='font-size: 1.2vmin;'><i>UFC Que Choisir</i></p>
+                        </a>
+                    </div>
+                    <div class='sources-domain'>
+                        <img src='media/transport.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom:-1.2vmin;'/>
+                        <a href='https://opendata.paris.fr/explore/dataset/stations-velib-disponibilites-en-temps-reel' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Stations Vélib</p>
+                            <p style='font-size: 1.2vmin;'><i>Mairie de Paris (licence OBbL)</i></p>
+                        </a>
+                        <a href='https://developers.google.com/maps/documentation/distance-matrix/?hl=fr' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Temps de trajet en transports en commun</p>
+                            <p style='font-size: 1.2vmin;'><i>Google Maps Distance Matrix API</i></p>
+                        </a>
+                    </div>
+                    <div class='sources-domain'>
+                        <img src='media/cadreDeVie.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom:-1.2vmin;'/>
+                        <a href='https://fr.wikipedia.org/wiki/Liste_des_espaces_verts_de_Paris' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Liste des espaces verts de Paris</p>
+                            <p style='font-size: 1.2vmin;'><i>Wikipédia (à partir des données de l'Institut d'Aménagement et d'Urbanisme de l'Île-de-France)</i></p>
+                        </a>
+
+                        <a href='https://www.inhesj.fr/sites/default/files/fichiers_site/ondrp_ra-2016/2016_ra_cd_paris.pdf' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Crimes et délits commis dans les communes du Grand Paris en 2015</p>
+                            <p style='font-size: 1.2vmin;'><i>Observatoire National de la Délinquance et des Réponses Pénales</i></p>
+                        </a>
+                    </div>
+                    <div class='sources-domain'>
+                        <img src='media/sorties.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom:-1.2vmin;'/>
+                        <a href='http://www.mistergoodbeer.com/' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Prix de la pinte de bière à Paris</p>
+                            <p style='font-size: 1.2vmin;'><i>MisterGoodBeer</i></p>
+                        </a>
+                        <a href='http://www.bdesciencespo.fr/le-calendrier-des-assos' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Calendrier inter-associations</p>
+                            <p style='font-size: 1.2vmin;'><i>BDE Sciences Po</i></p>
+                        </a>
+                    </div>
+                    <div class='sources-domain'>
+                        <img src='media/culture.png' style='width: 5vmin; height: 5vmin; align: center; margin-top: 3.5vmin; margin-bottom:-1.2vmin;'/>
+                        <a href='https://opendata.paris.fr/explore/dataset/cinemas-a-paris/' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Cinémas à Paris</p>
+                            <p style='font-size: 1.2vmin;'><i>Mairie de Paris (licence OBdL)</i></p>
+                        </a>
+                        <a href='https://data.iledefrance.fr/explore/dataset/liste_des_musees_franciliens/' target='_blank' class='source'>
+                            <p style='margin-top: 1.5vmin;'>Musées franciliens</p>
+                            <p style='font-size: 1.2vmin;'><i>Région Île-de-France (licence ouverte)</i></p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    	<script src="https://tomfevrier.github.io/sciencespot/libraries/powerange.js"></script>
+        <script src="sliders.js"></script>
+    </body>
 </html>
